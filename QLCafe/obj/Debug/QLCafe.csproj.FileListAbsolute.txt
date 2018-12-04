@@ -1,0 +1,347 @@
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\QLCafe.exe.config
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\QLCafe.exe
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\QLCafe.pdb
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.fAccountProfile.resources
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.fAdmin.resources
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.fLogin.resources
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.fTableManager.resources
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.Properties.Resources.resources
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.csproj.GenerateResource.Cache
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.exe
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.pdb
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.csprojResolveAssemblyReference.cache
+D:\Đồ Án\QLCafe\QLCafe\obj\Debug\QLCafe.exe.licenses
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\stdole.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.DataAccess.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraReports.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Xpo.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\QLCafe.exe.config
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.exe
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.pdb
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.csprojResolveAssemblyReference.cache
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.fAccountProfile.resources
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.fAdmin.resources
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.fLogin.resources
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.fTableManager.resources
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.Properties.Resources.resources
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.csproj.GenerateResource.Cache
+D:\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.exe.licenses
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\QLCafe.exe
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\QLCafe.pdb
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Xpo.v18.1.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Diagram.v18.1.Core.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraDiagram.v18.1.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Images.v18.1.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\stdole.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Data.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.DataAccess.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.DataAccess.v18.1.UI.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Office.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.PivotGrid.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.RichEdit.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Utils.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Utils.v18.1.UI.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraBars.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraCharts.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraCharts.v18.1.Wizard.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraGauges.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraGrid.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraLayout.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraNavBar.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraPivotGrid.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraPrinting.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraReports.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraReports.v18.1.Extensions.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraRichEdit.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraTreeList.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraVerticalGrid.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Xpo.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.Diagram.v18.1.Core.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\DevExpress.XtraDiagram.v18.1.xml
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.DataAccess.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.DataAccess.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Office.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.PivotGrid.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.RichEdit.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Utils.v18.1.UI.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraBars.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraCharts.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraCharts.v18.1.Wizard.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraGauges.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraLayout.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraNavBar.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraPrinting.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraReports.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraReports.v18.1.Extensions.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraRichEdit.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraTreeList.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Xpo.v18.1.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\de\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\es\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ja\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\ru\DevExpress.Diagram.v18.1.Core.resources.dll
+D:\OldProject\Đồ Án Winform\QLCafe\QLCafe\bin\Debug\QLCafe.exe.config
+D:\OldProject\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.exe
+D:\OldProject\Đồ Án Winform\QLCafe\QLCafe\obj\Debug\QLCafe.pdb
